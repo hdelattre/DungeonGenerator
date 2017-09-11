@@ -1,4 +1,4 @@
-// Copyright 2016-2017 Bazel Games
+// Copyright 2016-2017 Hunter Delattre
 
 #include "Wizz.h"
 #include "DungeonStaticMeshMarker.h"
